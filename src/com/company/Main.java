@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO chapter1
         PackageTest.execute();
-//        Question2.question2();
+        Question2.question2();
 
         // TODO chapter2
         // TODO chapter3
