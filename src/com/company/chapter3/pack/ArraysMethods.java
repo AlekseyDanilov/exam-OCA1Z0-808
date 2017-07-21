@@ -9,7 +9,7 @@ import java.util.List;
  * Created by Данилов on 20.07.2017.
  */
 public class ArraysMethods {
-    public static void methods(){
+    public static void methods() {
 
         //ArrayList method add() добавляет в массив элемент
 
@@ -98,6 +98,9 @@ public class ArraysMethods {
         System.out.println(f.format(LocalDate.now()));
         System.out.println(LocalTime.now());
         System.out.println(LocalDateTime.now());
+        System.out.println();
+
 
     }
 }
+

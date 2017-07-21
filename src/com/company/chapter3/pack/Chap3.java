@@ -32,10 +32,10 @@ public class Chap3 {
         // substring() метод который берет значение в скобках и от этого индекса пишет строку, так же можно задать
         // параметр до какого значения ему писать эту строку.
 
-        System.out.println(s.substring(3)); // mals
+        System.out.println(s.substring(1, 3)); // ni
         System.out.println(s.substring(s.indexOf('m'))); // mals
-        System.out.println(s.substring(3, 4)); // m
-        System.out.println(s.substring(3, 7)); // mals
+        System.out.println(s.substring(4, 7)); //als
+        System.out.println(s.substring(7)); // empty
         System.out.println();
 
         /*System.out.println(s.substring(3, 3)); // empty string

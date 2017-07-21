@@ -1,7 +1,12 @@
 package com.company;
 
+import com.company.chapter2.pack.C2Q2;
+import com.company.chapter2.pack.C2Q4;
+import com.company.chapter2.pack.C2Q7;
+import com.company.chapter2.pack.C2Q9;
 import com.company.chapter3.pack.ArraysMethods;
 import com.company.chapter3.pack.Chap3;
+import com.company.chapter3.pack.SplitTrim;
 
 public class Main {
 
@@ -14,7 +19,7 @@ public class Main {
         //Question16.question16();
 
         // TODO chapter2
-//        C2Q2.question2();
+        //C2Q2.question2();
 //        C2Q3.question3();
 //        C2Q4.question4();
 //        C2Q7.question7();
@@ -22,10 +27,13 @@ public class Main {
 
 
         // TODO chapter3
-//        Chap3.stringMethod();
-        ArraysMethods.methods();
+            //Chap3.stringMethod();
+        //ArraysMethods.methods();
+        //SplitTrim.main();
 
         // TODO chapter4
+
+
         // TODO chapter5
     }
 }

@@ -18,7 +18,5 @@ public class C2Q2 {
         System.out.println(l);
         System.out.println(d);
 
-
-
     }
 }
