@@ -7,6 +7,8 @@ import com.company.chapter2.pack.C2Q9;
 import com.company.chapter3.pack.ArraysMethods;
 import com.company.chapter3.pack.Chap3;
 import com.company.chapter3.pack.SplitTrim;
+import com.company.chapter4.pack.Chap4;
+import com.company.chapter4.pack.YetMoreInitializationOrder;
 
 public class Main {
 
@@ -32,6 +34,9 @@ public class Main {
         //SplitTrim.main();
 
         // TODO chapter4
+
+        //Chap4.print();
+        YetMoreInitializationOrder.example();
 
 
         // TODO chapter5
