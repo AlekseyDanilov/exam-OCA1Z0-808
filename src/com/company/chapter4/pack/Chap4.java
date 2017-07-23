@@ -1,5 +1,8 @@
 package com.company.chapter4.pack;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by Данилов on 21.07.2017.
  */
@@ -29,5 +32,17 @@ public class Chap4 {
         System.out.print(glide("a"));
         System.out.print(glide("a", "b"));
         System.out.print(glide("a", "b", "c"));
+        System.out.println();
+        System.out.println();
+
+        //Лямбда выражения:
+
+        List<String> bunnies = new ArrayList<>();
+        bunnies.add("long ear");
+        bunnies.add("floppy");
+        bunnies.add("hoppy");
+        System.out.println(bunnies); // [long ear, floppy, hoppy]
+        bunnies.removeIf(s -> s.charAt(0) != 'h');
+        System.out.println(bunnies); // [hoppy]
     }
 }

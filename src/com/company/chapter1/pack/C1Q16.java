@@ -3,7 +3,7 @@ package com.company.chapter1.pack;
 /**
  * Created by Данилов on 19.07.2017.
  */
-public class Question16 {
+public class C1Q16 {
     public static void question16() {
         int a = 0b101;
         int b = 0xE;

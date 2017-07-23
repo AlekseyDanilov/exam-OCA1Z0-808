@@ -3,7 +3,7 @@ package com.company.chapter2.pack;
 /**
  * Created by Данилов on 19.07.2017.
  */
-public class C2Q4 {
+public class C2Q04 {
     public static void question4() {
 
         //Cast a on line 4 to int.
