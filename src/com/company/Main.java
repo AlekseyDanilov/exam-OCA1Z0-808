@@ -1,6 +1,7 @@
 package com.company;
 
 import com.company.chapter3.pack.C3Q06;
+import com.company.chapter3.pack.C3Q08;
 
 public class Main {
 
@@ -29,7 +30,8 @@ public class Main {
 //        C3Q01.question1();
 //        C3Q02.question2();
 //        C3Q05.questions5();
-        C3Q06.question6();
+//        C3Q06.question6();
+        C3Q08.question8();
 
         // TODO chapter4
 
