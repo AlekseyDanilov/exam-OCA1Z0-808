@@ -1,10 +1,6 @@
 package com.company;
 
-import com.company.chapter2.pack.C2Q13;
-import com.company.chapter2.pack.C2Q20;
-import com.company.chapter3.pack.C3Q01;
-import com.company.chapter3.pack.C3Q02;
-import com.company.chapter3.pack.C3Q05;
+import com.company.chapter3.pack.C3Q06;
 
 public class Main {
 
@@ -32,7 +28,8 @@ public class Main {
 //        SplitTrim.main();
 //        C3Q01.question1();
 //        C3Q02.question2();
-        C3Q05.questions5();
+//        C3Q05.questions5();
+        C3Q06.question6();
 
         // TODO chapter4
 
