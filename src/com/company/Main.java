@@ -33,7 +33,8 @@ public class Main {
 //        C3Q08.question8();
 //        C3Q14.question14();
 //        C3Q23.question23();
-        C3Q24.question24();
+//        C3Q24.question24();
+        C3Q25.question25();
 
         // TODO chapter4
 
