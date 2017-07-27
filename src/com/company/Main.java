@@ -1,6 +1,9 @@
 package com.company;
 
+import com.company.chapter1.pack.*;
+import com.company.chapter2.pack.*;
 import com.company.chapter3.pack.*;
+import com.company.chapter4.pack.*;
 
 public class Main {
 
@@ -13,8 +16,8 @@ public class Main {
         //C1Q16.question16();
 
         // TODO chapter2
-        //C2Q02.question2();
-//        C2Q3.question3();
+//        C2Q02.question2();
+//        C2Q03.question3();
 //        C2Q04.question4();
 //        C2Q07.question7();
 //        C2Q09.question9();
