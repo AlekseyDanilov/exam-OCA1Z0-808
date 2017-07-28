@@ -46,6 +46,7 @@ public class Main {
 
         //Chap4.print();
         //YetMoreInitializationOrder.example();
+        C4Q16.question16();
 
 
         // TODO chapter5
