@@ -47,7 +47,8 @@ public class Main {
         //Chap4.print();
         //YetMoreInitializationOrder.example();
 //        C4Q16.question16();
-        C4Q17.question17();
+//        C4Q17.question17();
+        C4Q26.question26();
 
 
         // TODO chapter5
