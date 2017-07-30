@@ -5,9 +5,9 @@ public class Create {
         System.out.print("1 ");
     }
 
-   /* Create(int num) {
-        System.out.print("2 ");
-    }*/
+//    Create(int num) {
+//        System.out.print("2 ");
+//    }
 
     Create(Integer num) {
         System.out.print("3 ");
