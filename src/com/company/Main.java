@@ -4,6 +4,7 @@ import com.company.chapter1.pack.*;
 import com.company.chapter2.pack.*;
 import com.company.chapter3.pack.*;
 import com.company.chapter4.pack.*;
+import com.company.chapter5.pack.*;
 
 public class Main {
 
@@ -48,9 +49,10 @@ public class Main {
         //YetMoreInitializationOrder.example();
 //        C4Q16.question16();
 //        C4Q17.question17();
-        C4Q26.question26();
+//        C4Q26.question26();
 
 
         // TODO chapter5
+//        C5Q12.question12();
     }
 }
