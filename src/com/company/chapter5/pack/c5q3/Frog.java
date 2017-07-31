@@ -8,6 +8,5 @@ public class Frog implements CanHop {
         CanHop frog4 = new TurtleFrog(); //вариант D
         Object frog5 = new TurtleFrog(); //вариант E
         // Long frog6 = new TurtleFrog(); вариант F
-
          }
 }
