@@ -54,5 +54,6 @@ public class Main {
 
         // TODO chapter5
 //        C5Q12.question12();
+        C5Q18.question18();
     }
 }
