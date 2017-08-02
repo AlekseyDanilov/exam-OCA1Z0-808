@@ -59,6 +59,7 @@ public class Main {
 
 
         // TODO chapter6
-        C6Q4.question4();
+        //C6Q4.question4();
+        C6Q7.question7();
     }
 }
