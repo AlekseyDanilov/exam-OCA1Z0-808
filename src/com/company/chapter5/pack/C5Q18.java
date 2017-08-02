@@ -12,7 +12,7 @@ public class C5Q18 implements Aquatic {
         return "4";
     }
 
-    // public String getNumberOfGills(int input) {
+     //public String getNumberOfGills(int input) {
     public Integer getNumberOfGills(int input) {
         return 6;
     }

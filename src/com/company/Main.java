@@ -5,6 +5,7 @@ import com.company.chapter2.pack.*;
 import com.company.chapter3.pack.*;
 import com.company.chapter4.pack.*;
 import com.company.chapter5.pack.*;
+import com.company.chapter6.pack.*;
 
 public class Main {
 
@@ -54,6 +55,10 @@ public class Main {
 
         // TODO chapter5
 //        C5Q12.question12();
-        C5Q18.question18();
+//        C5Q18.question18();
+
+
+        // TODO chapter6
+        C6Q4.question4();
     }
 }
