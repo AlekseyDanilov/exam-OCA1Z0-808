@@ -18,7 +18,7 @@ public class C6Q7 {
     public void stop() {
         System.out.print("E"); // печать символа "E"
         Object x = null;
-        x.toString(); // обращение метода toString к нулевому объекту, вызовет NullPointerException
+        x.toString(); // обращение метода toString к нулевому объекту, вызовет NullPointerException.
         System.out.print("F");
     }
 
