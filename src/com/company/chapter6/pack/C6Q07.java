@@ -1,6 +1,6 @@
 package com.company.chapter6.pack;
 
-public class C6Q7 {
+public class C6Q07 {
     public void go() {
         System.out.print("A"); // начало обработки метода
         try {
@@ -23,6 +23,6 @@ public class C6Q7 {
     }
 
     public static void question7() {
-        new C6Q7().go();
+        new C6Q07().go();
     }
 }

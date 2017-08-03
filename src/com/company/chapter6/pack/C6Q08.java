@@ -1,6 +1,6 @@
 package com.company.chapter6.pack;
 
-public class C6Q8 {
+public class C6Q08 {
     public static int question8() {
         int a = 0;
         int b = 0;
