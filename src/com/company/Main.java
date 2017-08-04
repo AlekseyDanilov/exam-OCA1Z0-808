@@ -6,6 +6,8 @@ import com.company.chapter3.pack.*;
 import com.company.chapter4.pack.*;
 import com.company.chapter5.pack.*;
 import com.company.chapter6.pack.*;
+import com.company.testquestions.pack.*;
+
 
 public class Main {
 
@@ -62,5 +64,11 @@ public class Main {
 //        C6Q04.question4();
 //        C6Q07.question7();
 //        C6Q08.question8();
+//        C6Q11.question11();
+//        C6Q20.question20();
+
+
+        // TODO testquestions
+        TQ1.question1();
     }
 }
