@@ -73,6 +73,7 @@ public class Main {
 //        TQ02.question2();
 //        TQ03.question3();
 //        TQ04.question4();
-        TQ05.question5();
+//        TQ05.question5();
+        TQ06.question6();
     }
 }
