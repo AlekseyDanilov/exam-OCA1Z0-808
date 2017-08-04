@@ -9,7 +9,7 @@ public class TQ04 {
                 // написано "continue", мы просто завершаем блок for:each для "b" и переходим к "c".
                 System.out.println(s);
                 if("b".equals(s)) break;
-                System.out.println(s+" again");
+                System.out.println(s + " again");
             }
         }
     }
