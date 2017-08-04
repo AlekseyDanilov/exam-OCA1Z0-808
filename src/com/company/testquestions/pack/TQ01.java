@@ -2,7 +2,7 @@ package com.company.testquestions.pack;
 
 //What will it print when run?
 
-public class TQ1 {
+public class TQ01 {
     public static void question1() {
         int i = 1234567890;
         float f = i;

@@ -69,6 +69,7 @@ public class Main {
 
 
         // TODO testquestions
-        TQ1.question1();
+//        TQ01.question1();
+        TQ02.question2();
     }
 }
