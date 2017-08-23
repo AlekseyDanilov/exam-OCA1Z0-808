@@ -80,6 +80,9 @@ public class Main {
 //        TQ09.question9();
 //        TQ11.question11();
 //        TQ12.question12();
-        TQ13.question13();
+//        TQ13.question13();
+        TQ14.question14();
+//        TQ15.question15();
+//        TQ16.question16();
     }
 }
