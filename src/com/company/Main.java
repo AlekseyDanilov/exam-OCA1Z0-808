@@ -84,9 +84,14 @@ public class Main {
 //        TQ14.question14();
 //        TQ15.question15();
 //        TQ16.question16();
-        TQ18.question18();
+//        TQ18.question18();
 //        TQ19.question19();
 //        TQ20.question20();
 //        TQ21.question21();
+//        TQ22.question22();
+//        TQ23.question23();
+//        TQ24.question24();
+//        TQ25.question25();
+//        TQ26.question26();
     }
 }
