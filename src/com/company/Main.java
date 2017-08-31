@@ -93,5 +93,11 @@ public class Main {
 //        TQ24.question24();
 //        TQ25.question25();
 //        TQ26.question26();
+//        TQ27.question27();
+//        TQ28.question28();
+//        TQ29.question29();
+//        TQ30.question30();
+//        TQ32.question32();
+        TQ35.question35();
     }
 }
