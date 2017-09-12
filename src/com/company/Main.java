@@ -1,11 +1,5 @@
 package com.company;
 
-import com.company.chapter1.pack.*;
-import com.company.chapter2.pack.*;
-import com.company.chapter3.pack.*;
-import com.company.chapter4.pack.*;
-import com.company.chapter5.pack.*;
-import com.company.chapter6.pack.*;
 import com.company.testquestions.pack.*;
 
 
@@ -97,7 +91,7 @@ public class Main {
 //        TQ28.question28();
 //        TQ29.question29();
 //        TQ30.question30();
-//        TQ32.question32();
-        TQ35.question35();
+        TQ31.question32();
+        TQ32.question32();
     }
 }
